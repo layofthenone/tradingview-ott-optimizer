@@ -1,3 +1,4 @@
+![example](https://user-images.githubusercontent.com/41278272/147601176-d506783b-ac14-4fd6-a975-e6fc30745733.png)
 # tradingview_ott_optimizer
 Tradingview OTT strategy optimizing
 
